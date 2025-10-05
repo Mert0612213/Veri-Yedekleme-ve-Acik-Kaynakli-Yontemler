@@ -11,7 +11,7 @@ Yedekleme üç ana başlıkta incelenir:
 * **Artımlı yedek (Incremental Backup):** Sadece son yedekten sonra değişen dosyalar kopyalanır. Daha hızlı ve verimlidir.
 * **Fark yedeği (Differential Backup):** Son tam yedekten sonra değişen tüm veriler alınır. Orta seviye bir yöntemdir.
 
-![Kedi Görseli]([https://example.com/kedi.png](https://rkicdn.rkimball.com/how_database_backup_works_in_sql_server.png))
+![Backup](https://rkicdn.rkimball.com/how_database_backup_works_in_sql_server.png)
 
 
 
